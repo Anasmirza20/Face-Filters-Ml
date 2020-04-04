@@ -1,0 +1,2 @@
+rootProject.name='Face Detection Ml kit'
+include ':app'
